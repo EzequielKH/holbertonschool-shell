@@ -1,2 +1,2 @@
-#!/bin/bash
-su student_jail -c 'timeout 30 bash -c pwd'
+#!/bin/bash 
+su -c 'timeout 30 bash -c ./0-current_working-directory'
