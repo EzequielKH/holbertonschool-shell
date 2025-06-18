@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "ccccccaaaaCCCCCCddddddd" | tr -d "Cc"
+tr -d "Cc"
